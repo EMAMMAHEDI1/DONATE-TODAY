@@ -19,6 +19,7 @@ p {
 
 section {
     display: flex;
+    margin-bottom: 9%;
 }
 
 .half-width {
@@ -27,7 +28,7 @@ section {
 }
 
 .half-width image {
-    width: 20%;
+    width: 244%;
 }
 
 .link-button {
@@ -41,6 +42,5 @@ section {
 .top-banner {
     background-image: url(images/donation12.png);
     background-repeat: no-repeat;
-
-
+    background-size: 100% 100%;
 }
